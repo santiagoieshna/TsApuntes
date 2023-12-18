@@ -29,7 +29,7 @@
 
 Si sale error en el paso 2 para comprobar la node.js, abriremos la terminal como administrador.
 
-![[Pasted image 20231218122011.png]]
+![[solucion_problemaequipo.png]]
 
 
 

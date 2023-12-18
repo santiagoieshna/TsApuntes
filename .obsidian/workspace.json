@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "003d108c331b5779",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00_FundamentosTS/Apuntes TypeScript.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "afed89eb491733d6",
             "type": "leaf",
             "state": {
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_FundamentosTS/Apuntes TypeScript.pdf",
+                "file": "00_FundamentosTS/01_Configuracion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_FundamentosTS/Apuntes TypeScript.pdf",
+                "file": "00_FundamentosTS/01_Configuracion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_FundamentosTS/Apuntes TypeScript.pdf"
+                "file": "00_FundamentosTS/01_Configuracion.md"
               }
             }
           }
@@ -158,19 +146,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "003d108c331b5779",
+  "active": "bd8715c2c8849d88",
   "lastOpenFiles": [
+    "00_FundamentosTS/ANEXO/parametro-noEmitError.png",
+    "00_FundamentosTS/ANEXO/parametro-outDir.png",
+    "00_FundamentosTS/ANEXO/parametro-rooDir.png",
     "00_FundamentosTS/01_Configuracion.md",
-    "00_FundamentosTS/ANEXO/Pasted image 20231218134909.png",
+    "00_FundamentosTS/ANEXO/parametro-target.png",
+    "00_FundamentosTS/00_Instalacion.md",
+    "00_FundamentosTS/ANEXO/tsc-init_tsconfig.png",
+    "00_FundamentosTS/ANEXO/tscmanual.png",
+    "00_FundamentosTS/ANEXO/solucion_problemaequipo.png",
+    "00_FundamentosTS/ANEXO/archivo_tsconfigJSON.png",
     "00_FundamentosTS/Apuntes TypeScript.pdf",
     "00_FundamentosTS/ANEXO/pasarTsAJs.png",
     "00_FundamentosTS/ANEXO/Pasted image 20231218132926.png",
-    "00_FundamentosTS/ANEXO/Pasted image 20231218132752.png",
-    "00_FundamentosTS/00_Instalacion.md",
     "00_FundamentosTS/ANEXO/tscVersion.png",
-    "00_FundamentosTS/ANEXO/Pasted image 20231218122011.png",
-    "00_FundamentosTS/ANEXO/nodeVersion.png",
-    "00_FundamentosTS/ANEXO/installTypeScript.png",
     "00_FundamentosTS/ANEXO",
     "00_FundamentosTS/Apuntes TypeScript 1.docx",
     "00_FundamentosTS/Apuntes TypeScript.docx",

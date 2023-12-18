@@ -1,4 +1,6 @@
 {
   "attachmentFolderPath": "./ANEXO",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "showUnsupportedFiles": true
 }
