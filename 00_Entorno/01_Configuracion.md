@@ -7,7 +7,7 @@ TypeScript tiene la misión de tipar los datos, cosa que no se hace en javaScrip
 
 en este ejemplo pasamos de un archivo ts a js:
 
-![[pasarTsAJs.png]]
+![[pasarTsAJs.png|350]]
 
 Configuración de TypeScript 
 
@@ -35,22 +35,22 @@ Cuando tengamos que cambiar alguna la cambiaremos.
 
 ##### target
 
-![[parametro-target.png]]
+![[parametro-target.png|500]]
 
 ##### rootDir
 
-![[parametro-rooDir.png]]
+![[parametro-rooDir.png|500]]
 
 ##### outDir y removeComments
 
 el directorio dist es una convención.
 
-![[parametro-outDir.png]]
+![[parametro-outDir.png|500]]
 
 
 ##### noEmitOnError
 
-![[parametro-noEmitError.png]]
+![[parametro-noEmitError.png|500]]
 
 ### Otros Parámetros
 
@@ -71,3 +71,15 @@ Este archivo no esta en alto lenguaje, es para que lo entienda la maquina, no el
 
 *Nota*: Si ahora tuviéramos un ts fuera de src (menos en dist), en el mismo nivel de tsconfig.json, nos saltara error de que no todos los archivos están en src.
 
+## Configuración Directorios
+
+Al la hora de montar una aplicación o proyecto, debes tener en cuenta que estos archivos y directorios tienes que estar al mismo nivel de la carpeta raíz
+
+![[configuracion_directorios.png]]
+
+La imagen es un ejemplo de un proyecto, donde tenemos en el **mismo nivel** los siguientes elementos:
+- Archivo de configuración *tsconfig.json*
+- *src* (archivos typescript)
+- *bin* (otra convención para los archivos javaScript)
+- *.vscode* (carpeta para depuraciones)
+- *node_modules* (carpeta de paquetes de node.js).
