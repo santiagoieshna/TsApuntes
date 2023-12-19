@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_FundamentosTS/01_Configuracion.md",
+                "file": "00_FundamentosTS/02 Depuración Vs Code.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "f5c918499ddd42f3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "00_FundamentosTS/ANEXO/depurar-opciones.png"
               }
             }
           }
@@ -69,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 216.5
   },
   "right": {
     "id": "4292db9875678a45",
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_FundamentosTS/01_Configuracion.md",
+                "file": "00_FundamentosTS/02 Depuración Vs Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_FundamentosTS/01_Configuracion.md",
+                "file": "00_FundamentosTS/02 Depuración Vs Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_FundamentosTS/01_Configuracion.md"
+                "file": "00_FundamentosTS/02 Depuración Vs Code.md"
               }
             }
           }
@@ -146,22 +156,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bd8715c2c8849d88",
+  "active": "afed89eb491733d6",
   "lastOpenFiles": [
+    "00_FundamentosTS/01_Configuracion.md",
+    "00_FundamentosTS/ANEXO/depurar-opciones.png",
+    "00_FundamentosTS/02 Depuración Vs Code.md",
+    "depuradorvscode.png {width=50%}.md",
+    "00_FundamentosTS/ANEXO/depuradorvscode.png",
+    "00_FundamentosTS/ANEXO/parametro-sourceMap.png",
+    "00_FundamentosTS/ANEXO/breakpoint.png",
+    "00_FundamentosTS/00_Instalacion.md",
+    "2023-12-19.md",
+    "00_FundamentosTS/00_Instalacion_Configuracion_Typescript.pdf",
+    "01_TiposBasicos",
+    "01_Tip",
     "00_FundamentosTS/ANEXO/parametro-noEmitError.png",
     "00_FundamentosTS/ANEXO/parametro-outDir.png",
     "00_FundamentosTS/ANEXO/parametro-rooDir.png",
-    "00_FundamentosTS/01_Configuracion.md",
     "00_FundamentosTS/ANEXO/parametro-target.png",
-    "00_FundamentosTS/00_Instalacion.md",
     "00_FundamentosTS/ANEXO/tsc-init_tsconfig.png",
     "00_FundamentosTS/ANEXO/tscmanual.png",
-    "00_FundamentosTS/ANEXO/solucion_problemaequipo.png",
-    "00_FundamentosTS/ANEXO/archivo_tsconfigJSON.png",
-    "00_FundamentosTS/Apuntes TypeScript.pdf",
-    "00_FundamentosTS/ANEXO/pasarTsAJs.png",
-    "00_FundamentosTS/ANEXO/Pasted image 20231218132926.png",
-    "00_FundamentosTS/ANEXO/tscVersion.png",
     "00_FundamentosTS/ANEXO",
     "00_FundamentosTS/Apuntes TypeScript 1.docx",
     "00_FundamentosTS/Apuntes TypeScript.docx",

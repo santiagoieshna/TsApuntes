@@ -52,9 +52,22 @@ el directorio dist es una convención.
 
 ![[parametro-noEmitError.png]]
 
+### Otros Parámetros
+
+Aquí se nombrarán otros parámetros usados a lo largo de los apuntes.
+##### sourceMap
+
+indicara a VsCode como se mapea los archivos de ts a los archivos de js.
+
+![[parametro-sourceMap.png]]
+
+compilar el código con este parámetro en true, genera un archivo .js.map.
+
+Este archivo no esta en alto lenguaje, es para que lo entienda la maquina, no el humano.
 
 ## Comando tsc
 
 - el comando tsc sin nada mas hará las conversiones necesarias, con la configuración asignada
 
 *Nota*: Si ahora tuviéramos un ts fuera de src (menos en dist), en el mismo nivel de tsconfig.json, nos saltara error de que no todos los archivos están en src.
+
