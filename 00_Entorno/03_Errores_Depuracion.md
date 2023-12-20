@@ -1,3 +1,6 @@
+---
+sticker: lucide//file-warning
+---
 
 # Caso 1
 

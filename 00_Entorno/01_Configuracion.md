@@ -1,3 +1,6 @@
+---
+sticker: lucide//settings
+---
 
 ## ¿De que rollo va TypeScript? 
 
@@ -9,12 +12,14 @@ en este ejemplo pasamos de un archivo ts a js:
 
 ![[pasarTsAJs.png|350]]
 
-Configuración de TypeScript 
+##### Configuración de TypeScript 
 
 TypeScript tiene una configuración customizable, esto quiere decir que podemos cambiar la forma de escribir en él para ser más permisivos o menos permisivos. 
 
 Para ello, se usa un archivo de configuración llamado tsconfig.json, este archivo se genera con el comando: 
-`                                 tsc -init                                     `
+
+`{bash}tsc -init                                                          `
+
 
 ![[tsc-init_tsconfig.png]]
 

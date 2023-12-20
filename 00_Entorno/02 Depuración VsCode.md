@@ -1,7 +1,9 @@
 ## Pasos
 
-Hay que seguir una serie de pasos a seguir para depurar typescript en VsCode
+Para correr una archivo JavaScript:
+`{bash}node dist/typeof_VerTipos.js                                       `
 
+Si queremos depurar código typescript en VsCode hay que seguir una serie de pasos para ello.
 
 ### Habilitar mapeo de js
 configuración [[01_Configuracion#sourceMap|sourceMap]]   
@@ -35,7 +37,7 @@ cambiaremos el name a "Depurar Apuntes" para ver mas adelante que este nombre ha
 
 añadir entre *"program"* y *"outFiles"* el parámetro -> ***preLaunchTask***  
 
-`"preLaunchTask":"tsc: build - tsconfig.json"                          `
+`"preLaunchTask":"tsc: build - tsconfig.json"                       `
 
 ![[modificacion-launch.json.png|650]]
 
@@ -71,12 +73,12 @@ Donde va a escupir todo el código js que se ha transcrito desde typescript.
 
 La función es hacer una tarea en concreto antes de ejecutarse.
 
-Lo que hace el que se puso en la sección de [[02 Depuración Vs Code#launch.json|modificar launch.json]] es *transcribir el archivo ts a js con la configuración de nuestro archivo tsconfig.json*.
+Lo que hace el que se puso en la sección de [[02 Depuración VsCode#launch.json|modificar launch.json]] es *transcribir el archivo ts a js con la configuración de nuestro archivo tsconfig.json*.
 
 ### Ejecutar Depuración
 
 Estando en el apartado de debug, nos centramos en el botón de Play.
-Clicaremos para ver las opciones, *Depurar Apuntes* es la etiqueta que cambiamos (Launch Program es la etiqueta creada por defecto) que esta indicada en el apartado anterior en el parámetro **[[02 Depuración Vs Code#name|name]]**.
+Clicaremos para ver las opciones, *Depurar Apuntes* es la etiqueta que cambiamos (Launch Program es la etiqueta creada por defecto) que esta indicada en el apartado anterior en el parámetro **[[02 Depuración VsCode#name|name]]**.
 
 ![[botonPlayDebug.png]]
 
